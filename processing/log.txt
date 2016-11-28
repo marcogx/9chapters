@@ -1,0 +1,9 @@
+Oct 16 03:18:05 app1002.corp httpd: 172.18.159.102 - - [16/Oct/2013:03:18:01 +0000] "GET / HTTP/1.1" 200 22 "-" "Python-CRT-Client/0.0.8" 3378887
+Oct 16 03:18:05 web1004.corp httpd: 202.16.73.36 - - [16/Oct/2013:03:18:05 +0000] "GET /icon.gif HTTP/1.1" 404 310 "-" "Python-urllib/2.6" 200
+Dec 16 05:04:45 mail3.corp postfix/smtpd[26986]: disconnect from 172.16.73.2
+Oct 16 03:18:05 web1004.corp httpd: 202.16.73.36 - - [16/Oct/2013:03:18:05 +0000] "GET /icon.gif HTTP/1.1" 404 310 "-" "Python-urllib/2.6" 200
+Dec 16 05:04:45 mail3.corp postfix/smtpd[26986]: disconnect from 172.16.73.2
+Dec 16 05:04:45 app1003.corp postfix/smtpd[26965]: client=172.32.72.5
+Oct 16 03:18:05 web1004.corp httpd: 202.16.73.36 - - [16/Oct/2013:03:18:05 +0000] "GET /icon.gif HTTP/1.1" 404 310 "-" "Python-urllib/2.6" 200
+Dec 16 05:04:45 mail3.corp postfix/smtpd[26986]: disconnect from 772.16.73.2
+Dec 16 05:04:45 app1003.corp postfix/smtpd[26965]: client=1724.32.72.5

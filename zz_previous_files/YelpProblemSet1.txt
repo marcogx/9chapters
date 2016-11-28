@@ -1,0 +1,31 @@
+2.    Given a list of URLs, find top 10 most visited URLs
+ 
+4.    implement the 'cd' command i.e. given a function cd('a/b','c/../d/e/../f'),where 1st param is current directory and 2nd param is the sequence ofoperations, find the final directory that the user will be in when the cdcommand is executed
+ 
+6.    given a number of nodes and a number of edges, write a method to generate a random graph
+ 
+8.    Split shifted linked list into two sorted lists.
+
+11.  Given 6 integers and 1 target value,write a function to get the target value using 6 integers with any on these operations +,*,-,/
+ 
+12.  Maximum sub array
+ 
+18.  word ladder 2
+ 
+20.  List of tickets, in the form (origin,destination)
+ORIGINAL_TICKETS = [ ('SFO', 'LAX'), ('LAX', 'JFK'),  ('JFK','LHR'),  ('LHR', 'CDG'),  ('CDG', 'DXB'),  ('DXB', 'HKG'),  ('HKG', 'HAM'),]
+Write a function which given the original origin, find the final destination.Then write a function that would find both the original origin and finaldestination with only access to that ticket list. Finally write a function thatfinds a missing ticket given the original origin and final destination.
+ 
+21.  Write a text wrapper function which takes a width in pixels and a String and returns a String with new lines inserted. (You are also given a function which takes a string and gives you a pixel width).
+ 
+23.  Write a program to generate random numbers with weighted probability.
+ 
+24.  Write a function to find a hidden guess integer given a helper function that will check if guess is too low, too high,or correct
+ 
+25.  Find the k-lowest elements of an unsorted array.
+ 
+28.  You have two arrays with N integers in them. Merge those arrays using a recursive algorithm so that the integers inthe final array are sorted.
+ 
+29.  Dining philosophers
+ 
+31.  reconstruct binary tree
