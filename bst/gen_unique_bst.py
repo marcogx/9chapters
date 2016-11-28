@@ -1,7 +1,7 @@
 from binary_tree import TreeNode
 
 
-def generate_unique_bst(n):
+def gen_unique_bst(n):
     if n <= 0:
         return []
     return helper(1, n)

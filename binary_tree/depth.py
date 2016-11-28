@@ -1,4 +1,4 @@
-from ds.tree import TreeNode
+from bst.gen_unique_bst import gen_unique_bst
 
 
 # The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
@@ -17,7 +17,9 @@ def min_depth(root):
 
 
 def main():
-    pass
+    trees = gen_unique_bst(3)
+    for root in trees:
+        print max_depth(root), min_depth(root)
 
 
 if __name__ == '__main__':

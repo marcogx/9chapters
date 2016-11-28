@@ -2,68 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dc0e2b7-f921-4b3d-8b90-4abd684b28c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/9chapters.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/guang.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bfs/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bfs/get_lib_dependencies.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bfs/shortest_path_in_maze.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/binary_tree/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/binary_tree/depth.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/binary_tree/invert_tree.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/binary_tree/is_balanced.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/binary_tree/is_same.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/binary_tree/is_symmetric.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bst/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bst/generate_unique_bst.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coding/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coding/binary_search_tree.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coding/binary_tree.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coding/t.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coding/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/counter/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/counter/group_anagram.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/counter/is_anagram.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dfs/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dfs/get_lib_dependencies.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dfs/is_scramble.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prime/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prime/first_n_primes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prime/is_prime.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prime/primes_no_greater_than_n.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/processing/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/processing/file_index.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/processing/log.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/processing/sample-text.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/processing/unique_ip.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sliding_window/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sliding_window/find_all_anagrams.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_previous_files/Bloomberg.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_previous_files/CrackingArrayString.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_previous_files/CrackingGraph.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_previous_files/CrackingLinkedList.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_previous_files/CrackingRecursion.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_previous_files/CrackingTree.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_previous_files/LRUCache.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_previous_files/Lintcode1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_previous_files/Solution.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_previous_files/Solution2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_previous_files/TestDrivenDev.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_previous_files/YelpOA.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_previous_files/YelpProblemSet1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_previous_files/YelpSkype.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_previous_files/Zenefits.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_previous_files/my_queue.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_previous_files/restart.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_previous_files/t1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zz_previous_files/temp_backup_array.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/binary_tree/gen_zero_or_two_child_tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dp/unique_bst.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/binary_tree.py" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bst/generate_unique_bst.py" afterPath="$PROJECT_DIR$/bst/gen_unique_bst.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/coding/binary_search_tree.py" afterPath="$PROJECT_DIR$/dp/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/coding/t.py" afterPath="$PROJECT_DIR$/coding/f.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/binary_tree/depth.py" afterPath="$PROJECT_DIR$/binary_tree/depth.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/binary_tree/is_balanced.py" afterPath="$PROJECT_DIR$/binary_tree/is_balanced.py" />
     </list>
     <ignored path="9chapters.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -76,6 +23,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/9chapters$is_balanced.coverage" NAME="is_balanced Coverage Results" MODIFIED="1480301114215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_tree" />
     <SUITE FILE_PATH="coverage/9chapters$Lintcode1.coverage" NAME="Lintcode1 Coverage Results" MODIFIED="1444030995865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/9chapters$LRUCache.coverage" NAME="LRUCache Coverage Results" MODIFIED="1439051426019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/9chapters$first_n_primes.coverage" NAME="first_n_primes Coverage Results" MODIFIED="1480156203338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prime" />
@@ -98,6 +46,7 @@
     <SUITE FILE_PATH="coverage/9chapters$Solution2.coverage" NAME="Solution2 Coverage Results" MODIFIED="1441561658694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/9chapters$file_index.coverage" NAME="file_index Coverage Results" MODIFIED="1479121917640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coding" />
     <SUITE FILE_PATH="coverage/9chapters$unique_ip.coverage" NAME="unique_ip Coverage Results" MODIFIED="1479154416763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coding" />
+    <SUITE FILE_PATH="coverage/9chapters$depth.coverage" NAME="depth Coverage Results" MODIFIED="1480301041796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary_tree" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -108,51 +57,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="t.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coding/t.py">
+      <file leaf-file-name="gen_unique_bst.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bst/gen_unique_bst.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="10" />
+            <state relative-caret-position="304">
+              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="generate_unique_bst.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bst/generate_unique_bst.py">
+      <file leaf-file-name="unique_bst.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dp/unique_bst.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            <state relative-caret-position="133">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="binary_tree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coding/binary_tree.py">
+      <file leaf-file-name="gen_zero_or_two_child_tree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/binary_tree/gen_zero_or_two_child_tree.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="binary_search_tree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coding/binary_search_tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/binary_tree/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -173,9 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/YelpSkype.py" />
-        <option value="$PROJECT_DIR$/YelpProblemSet1.txt" />
-        <option value="$PROJECT_DIR$/CrackingList.py" />
         <option value="$PROJECT_DIR$/TestDrivenDev.py" />
         <option value="$PROJECT_DIR$/Bloomberg.py" />
         <option value="$PROJECT_DIR$/CrackingGraph.py" />
@@ -214,8 +140,6 @@
         <option value="$PROJECT_DIR$/coding/binary_tree.py" />
         <option value="$PROJECT_DIR$/ds/tree.py" />
         <option value="$PROJECT_DIR$/binary_tree/get_depth.py" />
-        <option value="$PROJECT_DIR$/binary_tree/depth.py" />
-        <option value="$PROJECT_DIR$/binary_tree/is_balanced.py" />
         <option value="$PROJECT_DIR$/binary_tree/invert_tree.py" />
         <option value="$PROJECT_DIR$/binary_tree/is_symmetric.py" />
         <option value="$PROJECT_DIR$/binary_tree/is_same.py" />
@@ -224,6 +148,11 @@
         <option value="$PROJECT_DIR$/coding/t.py" />
         <option value="$PROJECT_DIR$/binary_tree/__init__.py" />
         <option value="$PROJECT_DIR$/bst/generate_unique_bst.py" />
+        <option value="$PROJECT_DIR$/binary_tree/depth.py" />
+        <option value="$PROJECT_DIR$/binary_tree/is_balanced.py" />
+        <option value="$PROJECT_DIR$/dp/unique_bst.py" />
+        <option value="$PROJECT_DIR$/binary_tree/gen_zero_or_two_child_tree.py" />
+        <option value="$PROJECT_DIR$/bst/gen_unique_bst.py" />
       </list>
     </option>
   </component>
@@ -244,7 +173,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -305,6 +234,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="prime" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="9chapters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="9chapters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -421,43 +364,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.get_lib_dependencies (1)">
-    <configuration default="false" name="primes_no_greater_than_n" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prime" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="9chapters" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prime/primes_no_greater_than_n.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="first_n_primes" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prime" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="9chapters" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prime/first_n_primes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.is_balanced">
     <configuration default="false" name="group_anagram" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -508,6 +415,42 @@
       <module name="9chapters" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dfs/get_lib_dependencies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="depth" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/binary_tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="9chapters" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binary_tree/depth.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="is_balanced" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/binary_tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="9chapters" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binary_tree/is_balanced.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -722,19 +665,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.primes_no_greater_than_n" />
-      <item index="1" class="java.lang.String" itemvalue="Python.first_n_primes" />
-      <item index="2" class="java.lang.String" itemvalue="Python.group_anagram" />
-      <item index="3" class="java.lang.String" itemvalue="Python.get_lib_dependencies" />
-      <item index="4" class="java.lang.String" itemvalue="Python.get_lib_dependencies (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.group_anagram" />
+      <item index="1" class="java.lang.String" itemvalue="Python.get_lib_dependencies" />
+      <item index="2" class="java.lang.String" itemvalue="Python.get_lib_dependencies (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.depth" />
+      <item index="4" class="java.lang.String" itemvalue="Python.is_balanced" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.get_lib_dependencies (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.get_lib_dependencies" />
-        <item index="2" class="java.lang.String" itemvalue="Python.group_anagram" />
-        <item index="3" class="java.lang.String" itemvalue="Python.first_n_primes" />
-        <item index="4" class="java.lang.String" itemvalue="Python.primes_no_greater_than_n" />
+        <item index="0" class="java.lang.String" itemvalue="Python.is_balanced" />
+        <item index="1" class="java.lang.String" itemvalue="Python.depth" />
+        <item index="2" class="java.lang.String" itemvalue="Python.get_lib_dependencies (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.get_lib_dependencies" />
+        <item index="4" class="java.lang.String" itemvalue="Python.group_anagram" />
       </list>
     </recent_temporary>
   </component>
@@ -756,17 +699,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17310444" sideWeight="0.49373883" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17310444" sideWeight="0.49373883" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2746988" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21927711" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39036146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37831324" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21316166" sideWeight="0.50626117" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35044247" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -776,7 +720,6 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -960,23 +903,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/zz_previous_files/Zenefits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="102" column="1" selection-start-line="102" selection-start-column="1" selection-end-line="102" selection-end-column="1" />
-          <folding>
-            <element signature="e#2991#3507#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zz_previous_files/YelpSkype.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zz_previous_files/YelpOA.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1102,14 +1028,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coding/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/processing/file_index.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -1138,14 +1056,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coding/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1146">
-          <caret line="65" column="18" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -1268,22 +1178,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/binary_tree/depth.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/binary_tree/is_balanced.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/binary_tree/invert_tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -1324,10 +1218,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coding/t.py">
+    <entry file="file://$PROJECT_DIR$/ds/tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="10" />
+        <state relative-caret-position="57">
+          <caret line="3" column="37" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_tree/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
           <folding />
         </state>
       </provider>
@@ -1348,26 +1250,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ds/tree.py">
+    <entry file="file://$PROJECT_DIR$/coding/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="37" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="37" />
+        <state relative-caret-position="764">
+          <caret line="65" column="18" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/binary_tree/__init__.py">
+    <entry file="file://$PROJECT_DIR$/coding/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bst/generate_unique_bst.py">
+    <entry file="file://$PROJECT_DIR$/coding/f.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        <state relative-caret-position="152">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_tree/depth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="10" selection-start-line="18" selection-start-column="0" selection-end-line="25" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_tree/is_balanced.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dp/unique_bst.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_tree/gen_zero_or_two_child_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bst/gen_unique_bst.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
           <folding />
         </state>
       </provider>
