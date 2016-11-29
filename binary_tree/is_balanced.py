@@ -1,5 +1,5 @@
 from depth import max_depth
-from bst.gen_unique_bst import gen_unique_bst
+from binary_search_tree.gen_unique_bst import gen_unique_bst
 
 
 def is_balanced(root):

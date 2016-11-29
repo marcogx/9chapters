@@ -1,4 +1,4 @@
-from bst.gen_unique_bst import gen_unique_bst
+from binary_search_tree.gen_unique_bst import gen_unique_bst
 
 
 # The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
