@@ -7,6 +7,8 @@
       <w>dups</w>
       <w>inorder</w>
       <w>lbound</w>
+      <w>lpost</w>
+      <w>lpre</w>
       <w>ltrees</w>
       <w>palin</w>
       <w>plen</w>
