@@ -1,4 +1,4 @@
-from counter.is_anagram import is_anagram
+from counter_vote.is_anagram import is_anagram
 
 
 def is_scramble(s1, s2):
