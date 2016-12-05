@@ -9,15 +9,16 @@ from collections import deque
 
 def get_lib_dependencies(root, dependencies):
     queue, visited, res = deque(), set(), []
-    visited.add(root)
     queue.append(root)
+    visited.add(root)
+
     while queue:
         cur = queue.popleft()
         res.append(cur)
         for nb in dependencies.get(cur, []):
             if nb not in visited:
-                visited.add(nb)
                 queue.append(nb)
+                visited.add(nb)
 
     res.pop(0)
     return res
